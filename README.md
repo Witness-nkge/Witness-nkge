@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Witness-nkge
 - 👀 I’m interested in android development,machine learning,natural language processing and web development
-- 🌱 I’m currently alot in new technologies
 - 💞️ I’m looking to collaborate on anything whether ml,web or android
 - 📫 you can reach me on twitter @WNkge, facebook @witnessnkge, Instagram @witnessnkge
