@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @Witness-nkge
-- 👀 I’m interested in android development,machine learning,natural language processing and web development
-- 💞️ I’m looking to collaborate on anything whether ml,web or android
-- 📫 you can reach me on twitter @WNkge, facebook @witnessnkge, Instagram @witnessnkge
+# 👋 Hey there, I’m Witness Nkge
+
+Welcome to my GitHub! I'm a **passionate software developer** on a mission to build clean, functional, and impactful projects
+
+## 💡 What I’m About
+- 🔭 Currently exploring **web and mobile app development**
+- 💻 Learning & building with **HTML | CSS | JavaScript | React | Python**
+- 🌱 Proud participant of the **FNB App Academy**
+- 🤝 Open to **collaboration**
+
+## 🚀 Let’s Connect
+- 📬 Twitter: [@WNkge](https://twitter.com/WNkge)
+
