@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **passionate software developer** on a mission to bu
 ## 💡 What I’m About
 - 🔭 Currently exploring **web and mobile app development**
 - 💻 Learning & building with **HTML | CSS | JavaScript | React | Python**
-- 🌱 Proud participant of the **FNB App Academy**
+- 🌱 Proud participant of the **FNB App Academy 2025** and **MTN App Academy 2021**
 - 🤝 Open to **collaboration**
 
 ## 🚀 Let’s Connect
